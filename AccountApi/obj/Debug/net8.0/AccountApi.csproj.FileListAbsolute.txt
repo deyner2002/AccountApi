@@ -36,3 +36,4 @@ C:\Users\solan\source\repos\AccountApi\AccountApi\obj\Debug\net8.0\refint\Accoun
 C:\Users\solan\source\repos\AccountApi\AccountApi\obj\Debug\net8.0\AccountApi.pdb
 C:\Users\solan\source\repos\AccountApi\AccountApi\obj\Debug\net8.0\AccountApi.genruntimeconfig.cache
 C:\Users\solan\source\repos\AccountApi\AccountApi\obj\Debug\net8.0\ref\AccountApi.dll
+C:\Users\solan\source\repos\AccountApi\AccountApi\obj\Debug\net8.0\AccountApi.sourcelink.json
