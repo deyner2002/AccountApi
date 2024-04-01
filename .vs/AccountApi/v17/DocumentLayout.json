@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\solan\\source\\repos\\AccountApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\dtos\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +23,12 @@
       "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|solutionrelative:accountapi\\enums\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAACF205-A9AB-4032-BE1C-85BA7D27F871}|AccountApi\\AccountApi.csproj|c:\\users\\solan\\source\\repos\\accountapi\\accountapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "UserAccount.cs",
               "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\Models\\UserAccount.cs",
               "RelativeDocumentMoniker": "AccountApi\\Models\\UserAccount.cs",
@@ -66,49 +66,48 @@
               "RelativeToolTip": "AccountApi\\Models\\UserAccount.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T05:19:01.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T05:19:01.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "AccountType.cs",
               "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\Enums\\AccountType.cs",
               "RelativeDocumentMoniker": "AccountApi\\Enums\\AccountType.cs",
               "ToolTip": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\Enums\\AccountType.cs",
               "RelativeToolTip": "AccountApi\\Enums\\AccountType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T04:21:19.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AccountApi\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AccountApi\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAIwE4AAAAoAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T04:19:48.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConnectionStrings.cs",
               "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\DTOs\\ConnectionStrings.cs",
               "RelativeDocumentMoniker": "AccountApi\\DTOs\\ConnectionStrings.cs",
               "ToolTip": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\DTOs\\ConnectionStrings.cs",
               "RelativeToolTip": "AccountApi\\DTOs\\ConnectionStrings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T04:19:15.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\appsettings.json",
               "RelativeDocumentMoniker": "AccountApi\\appsettings.json",
@@ -120,19 +119,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\Program.cs",
               "RelativeDocumentMoniker": "AccountApi\\Program.cs",
               "ToolTip": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\Program.cs",
               "RelativeToolTip": "AccountApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T02:47:52.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\solan\\source\\repos\\AccountApi\\AccountApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "AccountApi\\Controllers\\WeatherForecastController.cs",

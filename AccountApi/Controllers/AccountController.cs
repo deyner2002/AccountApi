@@ -92,5 +92,27 @@ namespace AccountApi.Controllers
                 }
             }
         }
+
+        [HttpPost]
+        [Route("GetAccountTypes")]
+        public List<string> GetAccountTypes()
+        {
+            List<string> accountTypes = new List<string>();
+            using (SqlConnection connection = new SqlConnection(_ConnectionStrings.WebConnection))
+            {
+                connection.Open();
+
+                string query = "SELECT Name FROM AccountType WHERE Status = 'A' AND Name != 'Admin'";
+                using (SqlCommand command = new SqlCommand(query, connection))
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        accountTypes.Add(reader["Name"] is DBNull ? string.Empty : (string)reader["Name"]);
+                    }
+                }
+            }
+            return accountTypes;
+        }
     }
 }
